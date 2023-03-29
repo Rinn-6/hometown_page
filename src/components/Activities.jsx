@@ -7,7 +7,7 @@ export default function Activities() {
       <div className="card-container"  id="cards">
         <div className="card" >
           <img
-            src="./src/assets/ravi-singh-7i7NgMk7dCs-unsplash.jpg"
+            src="/assets/ravi-singh-7i7NgMk7dCs-unsplash.jpg"
             alt="Howrah Bridge"
             className="img"
           ></img>
@@ -21,7 +21,7 @@ export default function Activities() {
 
         <div className="card">
           <img
-            src="./src/assets/saurav-mahto-_q28qN7J7Sg-unsplash.jpg"
+            src="/assets/saurav-mahto-_q28qN7J7Sg-unsplash.jpg"
             alt="Victoria Memorial"
             className="img"
           ></img>
@@ -35,7 +35,7 @@ export default function Activities() {
 
         <div className="card">
           <img
-            src="./src/assets/prado-SPWMpu7pw-k-unsplash.jpg"
+            src="/assets/prado-SPWMpu7pw-k-unsplash.jpg"
             alt="Indian Museum"
             className="img"
           ></img>
